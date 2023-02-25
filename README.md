@@ -9,6 +9,10 @@
 
 ## About Laravel
 This application I created with the help of webappfix.com and I'm adding features to it also refactoring it.
+
+## Tutorial Link
+https://www.webappfix.com/post/laravel-9-google-drive-file-upload-store-tutorial.html
+https://www.youtube.com/watch?v=nFWEBW_eL_I
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
